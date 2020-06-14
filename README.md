@@ -1,1 +1,2 @@
 # EmployeeManagementSystem
+This project sets up a node based application that allows the user to store their employee's salary, manager, title and department information by connecting to a MySQL database. Using inquirer the application is able to both provide dynamic options pulled from the employee database and provide them as options to the user. Console.table was used to create an easy to read layout for printing out information to the screen.
